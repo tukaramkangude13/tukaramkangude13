@@ -28,7 +28,7 @@ I'm a Computer Science student and Full Stack Developer passionate about buildin
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/tukaram-kangude-04193932a/
 - Portfolio: [Your Portfolio URL]
 
 ---
